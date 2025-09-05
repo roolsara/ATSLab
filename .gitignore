@@ -1,0 +1,18 @@
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.swp
+*.DS_Store
+
+.ipynb_checkpoints/
+
+## folder
+old/
+data_processing/OneDrive_2025-07-22/
+data/
+
+## files
+notes.odt
+
+.~lock.ATSLab_report_draft2.odt#
